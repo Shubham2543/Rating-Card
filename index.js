@@ -27,5 +27,5 @@ function submit() {
   }
   setTimeout(function () {
     location.reload(true);
-  }, 6000);
+  }, 5000);
 }
